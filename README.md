@@ -69,7 +69,7 @@ This makes the AI guide the student without revealing the final code.
 ## Example Interaction
 
 **Student’s Buggy Code:**
-*python*
+**python**
 numbers = [1, 2, 3, 4, 5]
 for i in range(len(numbers)):
     print(numbers[i+1])
